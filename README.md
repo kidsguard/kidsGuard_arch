@@ -19,3 +19,4 @@ Plan:
 7. putting the protected it environment into operation
 
 - Creating a web portal for parents - for easy viewing of child's sessions
+- Сreating an alert system for parents based on Telegram bots - parents will be aware of their child's activity on the Internet in real time.
