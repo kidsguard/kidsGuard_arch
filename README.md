@@ -17,3 +17,5 @@ Plan:
 5. software debugging
 6. testing
 7. putting the protected it environment into operation
+
+- Creating a web portal for parents - for easy viewing of child's sessions
