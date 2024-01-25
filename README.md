@@ -7,3 +7,13 @@ __KIDS Guard (BETA) schematic__ -----> (RU)
 <p align="center">
   <img src="https://github.com/kidsguard/kidsGuard_arch/blob/main/png/Temparchguardkids.png" />
 </p>
+
+
+Plan:
+1. сreating a cyber security architecture
+2. defining software that meets the requirements (for the task)
+3. creating a landscape for testing
+4. testing
+5. software debugging
+6. testing
+7. putting the protected it environment into operation
